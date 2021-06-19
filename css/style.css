@@ -37,8 +37,7 @@ div {
 }
 #main {
     border-radius: 30px;
-    background-image: url(../img/chalkboard.jpg);
-    background-repeat: repeat;
+    
 }
 #main-contact {
     border-radius: 30px;
@@ -114,10 +113,7 @@ p {
     background-image: url(../img/design-tools.jpg);
     background-repeat: repeat;
 }
-#nav {
-    background-image: url(../img/chalkboard.jpg);
-    background-repeat: repeat;
-}
+
 h5 {
     margin: 7px 0;
     font-size: 20px;
