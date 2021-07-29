@@ -59,7 +59,7 @@ hr{
     border: none;
 }
 #imgcard {
-    border-radius: 15%;
+    border-radius: 50%;
     overflow: hidden;
 }
 .z-depth-1, 
